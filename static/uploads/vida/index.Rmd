@@ -82,7 +82,7 @@ color cpk # coloração padrão de modelos atômicos
 
 |       Existe uma infinidade de moléculas que podem ser baixadas da internete pra se observar e estudar, tais como fármacos, biomoléculas, cristais, e mesmo organismos simples, como vírus inteiros. Seguem alguns exemplos se você quiser experimentar:
 
-1. [cafeína](cafeina.mol), um poderoso estimulante;
+1. [Cafeína](cafeina.mol), um poderoso estimulante;
 2. [Insulina](insulina.png), a proteína cuja falta está relacionada ao *diabetes*;
 3. [Celulose](celulose.png), a principal fonte de carbono do planeta;
 4. [Um fago (vírus)](virus.png), dispensa palavras (mas tenha paciência, é grandão e carrega lentamente).
