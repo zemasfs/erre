@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantitative Biochemistry</title>
+    <link>https://bioquanti.netlify.app/en/</link>
+      <atom:link href="https://bioquanti.netlify.app/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantitative Biochemistry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language>
+    <image>
+      <url>https://bioquanti.netlify.app/media/icon_hu7208a802a376a45d3814814dd5d5e8f4_16213_512x512_fill_lanczos_center_3.png</url>
+      <title>Quantitative Biochemistry</title>
+      <link>https://bioquanti.netlify.app/en/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://bioquanti.netlify.app/en/authors/admin/avatares/_index13mar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bioquanti.netlify.app/en/authors/admin/avatares/_index13mar/</guid>
+      <description>&lt;!-- Google tag (gtag.js)--&gt; 
+&lt;script async src=&#34;https://www.googletagmanager.com/gtag/js?id=G-S1L73VGCG5&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
+
+  gtag(&#39;config&#39;, &#39;G-S1L73VGCG5&#39;);
+&lt;/script&gt;
+&lt;p&gt;Página elaborada no intuito de contribuir para o ensino-aprendizagem de conteúdos de Bioquímica e áreas correlatas, e esboçada para um Ensino Reproduzível (ER). O &lt;em&gt;material autoinstrucional&lt;/em&gt; permite o estudo dos temas juntamente à execução de códigos de programas de livre distribuição para gráficos, análises e tabelas, simulações e animações (&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio&lt;/a&gt;), como para o estudo e visualização tridimensional de biomoléculas (&lt;a href=&#34;http://jmol.sourceforge.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jmol&lt;/a&gt;), e para a observação dinâmica de reações e redes metabólicas (&lt;a href=&#34;https://bioquanti.netlify.app/uploads/sismabook&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sisma&lt;/a&gt;, desenvolvido na UNIFAL-MG).&lt;/p&gt;
+  &lt;!---  ![ texto](unifal3.jpg)---&gt;
+&lt;p&gt;A seleção dos programas baseia-se em suas características tangentes a um Ensino Reproduzível galgado na flexibilidade, expansibilidade,  rápida curva de aprendizado, boa useabilidade, interatividade, fácil instalação ou uso por navegadores de internete, e larga aplicabilidade, tanto para ensino (presencial, remoto, híbrido, ou EaD), como para pesquisa.&lt;/p&gt;
+&lt;p&gt;Alternativamente, pode-se acessar um conteúdo extraído do livro &lt;a href=&#34;https://bioquanti.netlify.app/uploads/textbook/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Bioquímica básica, de gente, de bicho, e de planta&lt;/strong&gt;&lt;/a&gt; (ISBN 978-65-00-90366-9), sobre diversos temas em &lt;em&gt;Bioquímica&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SISMA - Visual Dynamics of Transformations</title>
+      <link>https://bioquanti.netlify.app/en/index-en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bioquanti.netlify.app/en/index-en/</guid>
+      <description>
+
+
+&lt;!-- &lt;!-- Google tag (gtag.js) ## se não funcionar o default, tem que colocar essa tag em cada página do sítio--&gt;
+&lt;script async src=&#34;https://www.googletagmanager.com/gtag/js?id=G-S1L73VGCG5&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
+
+  gtag(&#39;config&#39;, &#39;G-S1L73VGCG5&#39;);
+&lt;/script&gt;
+&lt;div class=&#34;line-block&#34;&gt;      &lt;strong&gt;Sisma&lt;/strong&gt; is a program designed to generate dynamic visualizations of transformations occurring between reactants and products in chemical reactions. This user-friendly software facilitates the creation of reaction pathways by allowing the simple insertion of compounds (&lt;em&gt;objects&lt;/em&gt;) linked by arrows (&lt;em&gt;paths&lt;/em&gt;). This intuitive design mimics the traditional approach of drawing reaction schemes with a pencil and paper.&lt;/div&gt;
+&lt;div class=&#34;line-block&#34;&gt;      Written in Java, Sisma enables researchers to dynamically visualize and evaluate the transformation of reactants and products in various contexts, including isolated reactions, metabolic flows, and intricate reaction maps. The name &lt;em&gt;Sisma&lt;/em&gt; itself is an acronym for “Sistema de Mapas Autocatalíticos” (Autocatalytic Map System). The program performs a unique combined visual and quantitative simulation on a reaction map. It achieves this by capturing variations in the color intensity of the objects involved in each transformation, based on either a pre-defined equation or a user-defined one.&lt;/div&gt;
+&lt;div id=&#34;features-of-sisma&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Features of Sisma:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Comprehensive Object Management: Allows for the insertion of compounds (objects), pathways (paths), additional figures, and annotations directly onto the reaction map.&lt;/li&gt;
+&lt;li&gt;Data Persistence: Enables the storage and retrieval of created reaction maps for future reference and analysis.&lt;/li&gt;
+&lt;li&gt;Dynamic Concentration Simulation: Simulates variations in the relative concentrations of each compound using a combination of dot graphs and lines, providing a real-time visualization alongside the map itself.&lt;/li&gt;
+&lt;li&gt;Interactive Simulation Control: Offers functionalities for pausing, interrupting, rewinding, and advancing the visualization at any point during the simulation.&lt;/li&gt;
+&lt;li&gt;Quantitative Data Export: Automatically generates and exports a spreadsheet containing the numerical values of each object transformed at each time step.&lt;/li&gt;
+&lt;li&gt;Instantaneous Map Printing: Allows for the immediate printing of the reaction map at a specific point of interest during the transformation process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Through these functionalities, Sisma transforms the static presentation of forces and flows typically found in diagrams and maps within &lt;em&gt;Biochemistry&lt;/em&gt; and related fields into a dynamic and interactive experience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;development&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Development:&lt;/h3&gt;
+&lt;p&gt;The program was developed collaboratively by a team led by Prof. Dr. Luiz Eduardo da Silva from the Department of Computer Science (DCC/UNIFAL-MG) and three undergraduate students participating in a Scientific Initiation program.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;screenshots&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Screenshots&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;estacion.png&#34; style=&#34;width:40.0%&#34; /&gt;
+&lt;img src=&#34;RP1.png&#34; style=&#34;width:40.0%&#34; /&gt;
+&lt;img src=&#34;rede.png&#34; style=&#34;width:40.0%&#34; /&gt;
+&lt;img src=&#34;achase.png&#34; style=&#34;width:30.0%&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;download&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Download&lt;/h3&gt;
+&lt;p&gt;Download and Installation:&lt;/p&gt;
+&lt;p&gt;The compressed file containing the Sisma program can be downloaded from the following &lt;a href=&#34;.\Sisma.zip&#34;&gt;SISMA link&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;quick-usage-guide&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Quick Usage Guide:&lt;/h4&gt;
+&lt;div class=&#34;line-block&#34;&gt;      Download: Download the Sisma program from the provided link above (LINK: ..zip).&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Extraction: Unzip the downloaded file on your personal computer.&lt;/li&gt;
+&lt;li&gt;Java Virtual Machine: Sisma does not require formal installation. However, it necessitates a &lt;em&gt;Java Virtual Machine (JVM)&lt;/em&gt; to run. You can download and install the latest version of Java from the &lt;a href=&#34;https://www.java.com/pt-BR/download/manual.jsp&#34;&gt;official website&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Execution: Navigate to the “dist” folder within the extracted files and double-click the Java executable file named &lt;strong&gt;“Sisma_Realese_1.jar”&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;video-tutorial-in-portuguese&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Video Tutorial (in Portuguese):&lt;/h3&gt;
+&lt;div class=&#34;line-block&#34;&gt;      A short video tutorial (quick tutorial: &lt;a href=&#34;https://www.youtube.com/watch?v=MPr5zWlJqbY&#34; class=&#34;uri&#34;&gt;https://www.youtube.com/watch?v=MPr5zWlJqbY&lt;/a&gt;) is available to illustrate the program’s usage further.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;basic-usage&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Basic Usage:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Object Insertion: Right-click on the program’s interface and select “Object” to insert a compound representation.&lt;/li&gt;
+&lt;li&gt;Multiple Objects: Repeat the object insertion process (step 1) in another location on the program’s workspace, adjusting the color intensity using the provided scroll bar if desired.&lt;/li&gt;
+&lt;li&gt;Connecting Objects: Click and hold on a vertex (connection point) of one object, drag the mouse cursor to a vertex of the other object, and release to establish a connection between them.&lt;/li&gt;
+&lt;li&gt;Simulation Initiation: Click “OK” after completing the object placement and connection. Subsequently, click the “Play” icon to initiate the simulation, which will visually demonstrate the color transition between the connected objects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ebook&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Ebook:&lt;/h3&gt;
+&lt;div class=&#34;line-block&#34;&gt;  For a comprehensive guide on inserting objects and paths within &lt;em&gt;Sisma&lt;/em&gt;, elaborating, simulating, and evaluating enzymatic reactions, reaction chains, and dynamic metabolic networks, please refer to the downloadable &lt;em&gt;ebook&lt;/em&gt; titled &lt;a href=&#34;.\sismaBook.pdf&#34;&gt;&lt;strong&gt;Sisma - Visualização Dinâmica em Catálise &amp;amp; Metabolismo&lt;/strong&gt;&lt;/a&gt; (ISBN: 978-65-00-52124-5; &lt;strong&gt;in Portuguese&lt;/strong&gt;).&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;executable-sisma-examples&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Executable Sisma Examples&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;.\mapas\briggsHald.sis&#34;&gt;Briggs-Haldane steady-state condition&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;.\mapas\Vm_Km.sis&#34;&gt;Vm and Km effects&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;.\mapas\conc_enz.sis&#34;&gt;Enzyme level effects&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;.\mapas\inib_substr.sis&#34;&gt;Substrate inhibition&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;.\mapas\eqTR.sis&#34;&gt;T-R conformational equilibrium for enzymes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;.\mapas\ajuste_induzido.sis&#34;&gt;Induced fit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;.\mapas\efetor_neg.sis&#34;&gt;Negatively allosteric effect&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;.\mapas\efetor_pos.sis&#34;&gt;Positively allosteric effect&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;.\mapas\glicolise.sis&#34;&gt;Glycolysis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;.\mapas\mapaCHO.sis&#34;&gt;Carbohydrate metabolism&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;.\mapas\betaoxid.sis&#34;&gt;Fatty acid oxidation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;.\mapas\mapaMetab.sis&#34;&gt;Small metabolic map&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

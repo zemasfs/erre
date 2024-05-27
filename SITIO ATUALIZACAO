@@ -1,0 +1,5 @@
+1. Build book (HTML)
+2. Entrar no diretório _book e pegar os arquivos HTLM gerados e FIGURAS; pegar também o INDEX.HTML, que sempre é atualizado com os índices de novos capítulos
+3. Colocar na pasta Static correta do Bioquanti
+4. Build site
+5. Commit -> Push

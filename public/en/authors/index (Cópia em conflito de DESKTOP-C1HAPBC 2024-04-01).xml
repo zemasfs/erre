@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Quantitative Biochemistry</title>
+    <link>https://bioquanti.netlify.app/en/authors/</link>
+      <atom:link href="https://bioquanti.netlify.app/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language>
+    <image>
+      <url>https://bioquanti.netlify.app/media/icon_hu7208a802a376a45d3814814dd5d5e8f4_16213_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://bioquanti.netlify.app/en/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://bioquanti.netlify.app/en/authors/admin/avatares/_index13mar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bioquanti.netlify.app/en/authors/admin/avatares/_index13mar/</guid>
+      <description>&lt;!-- Google tag (gtag.js)--&gt; 
+&lt;script async src=&#34;https://www.googletagmanager.com/gtag/js?id=G-S1L73VGCG5&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
+
+  gtag(&#39;config&#39;, &#39;G-S1L73VGCG5&#39;);
+&lt;/script&gt;
+&lt;p&gt;Página elaborada no intuito de contribuir para o ensino-aprendizagem de conteúdos de Bioquímica e áreas correlatas, e esboçada para um Ensino Reproduzível (ER). O &lt;em&gt;material autoinstrucional&lt;/em&gt; permite o estudo dos temas juntamente à execução de códigos de programas de livre distribuição para gráficos, análises e tabelas, simulações e animações (&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio&lt;/a&gt;), como para o estudo e visualização tridimensional de biomoléculas (&lt;a href=&#34;http://jmol.sourceforge.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jmol&lt;/a&gt;), e para a observação dinâmica de reações e redes metabólicas (&lt;a href=&#34;https://bioquanti.netlify.app/uploads/sismabook&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sisma&lt;/a&gt;, desenvolvido na UNIFAL-MG).&lt;/p&gt;
+  &lt;!---  ![ texto](unifal3.jpg)---&gt;
+&lt;p&gt;A seleção dos programas baseia-se em suas características tangentes a um Ensino Reproduzível galgado na flexibilidade, expansibilidade,  rápida curva de aprendizado, boa useabilidade, interatividade, fácil instalação ou uso por navegadores de internete, e larga aplicabilidade, tanto para ensino (presencial, remoto, híbrido, ou EaD), como para pesquisa.&lt;/p&gt;
+&lt;p&gt;Alternativamente, pode-se acessar um conteúdo extraído do livro &lt;a href=&#34;https://bioquanti.netlify.app/uploads/textbook/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Bioquímica básica, de gente, de bicho, e de planta&lt;/strong&gt;&lt;/a&gt; (ISBN 978-65-00-90366-9), sobre diversos temas em &lt;em&gt;Bioquímica&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+1. Rodar um novo book em htlm contendo o(s) capítulo(os) na versão inglês, adaptando a sequência de capítulos no _yaml
+2. Pegar os arquivos html gerados do livro e colocar na pasta do book do sítio (ex: JmolQuarto) 
+3. Linkar os novos nomes no índice de capítulos do book no Bioquanti24 (ex: index-en.Rmd do JmolQuarto)
