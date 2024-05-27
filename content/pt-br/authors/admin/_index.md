@@ -17,7 +17,7 @@ superuser: yes
 
 ## Objetivo <i class="fa-solid fa-bullseye"></i>
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Ensino Reprodutível (ER)** define uma metodologia ativa de ensino-aprendizagem e que mistura códigos de programação com conteúdos temáticos. Na prática, o *ER* nada mais é do que aplicar códigos escritos em texto simples para que um programa gere algum produto de interesse ao *Ensino*, como um gráfico, uma tabela, uma mídia, um texto formatado para PDF ou DOCX, uma simulação, uma animação, entre muitos.
+&nbsp;&nbsp;&nbsp;&nbsp; **Ensino Reprodutívellllll (ER)** define uma metodologia ativa de ensino-aprendizagem e que mistura códigos de programação com conteúdos temáticos. Na prática, o *ER* nada mais é do que aplicar códigos escritos em texto simples para que um programa gere algum produto de interesse ao *Ensino*, como um gráfico, uma tabela, uma mídia, um texto formatado para PDF ou DOCX, uma simulação, uma animação, entre muitos.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Dessa forma é possível imaginar que um educando possa *repetir* a execução do código num programa específico, *alterar* algum trecho do código para observar um resultado diferente, ou mesmo *criar* um novo código buscando outro produto final. 
 
