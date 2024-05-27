@@ -15,7 +15,7 @@ superuser: yes
   gtag('config', 'G-S1L73VGCG5');
 </script>
 
-<i class="fa-solid fa-bullseye"></i>
+<!---<i class="fa-solid fa-bullseye"></i>--->
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Ensino Reprodutível (ER)** define uma metodologia ativa de ensino-aprendizagem e que mistura códigos de programação com conteúdos temáticos. Na prática, o *ER* nada mais é do que aplicar códigos escritos em texto simples para que um programa gere algum produto de interesse ao *Ensino*, como um gráfico, uma tabela, uma mídia, um texto formatado para PDF ou DOCX, uma simulação, uma animação, entre muitos.
 
