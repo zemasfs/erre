@@ -15,7 +15,7 @@ design:
 <font size="6">
 
 ## [bioQuanti](https://bioquanti.netlify.app/) - Bioquímica Quantitativa <i class="fa-solid fa-dna"></i> 
-##### Portal para estudos de *Bioquímica* e área correlatas com uso das ferramentas *R & RStudio*, *Jmol* e *Sisma*.
+##### Portal para estudos de *Bioquímica* e área correlatas com uso das ferramentas *R & RStudio (cálculos, gráficos, simulações)*, *Jmol (estrutura tridimensional de moléculas)* e *Sisma (metabolismo e dinâmica de reações)*.
 </font>
 
 

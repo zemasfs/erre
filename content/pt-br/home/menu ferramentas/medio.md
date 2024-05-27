@@ -18,6 +18,17 @@ design:
 ## ...em preparação...<i class="fa-solid fa-wrench"></i> 
 
 
-</body> 
+
+<!---Fenômenos-->
+<i class="fa-solid fa-atom"></i> {{< staticref "uploads/JmolBook/index.html" >}}fenômenos naturais e processos tecnológicos{{< /staticref >}}
+
+<!--- Vida --->
+<i class="fa-solid fa-leaf"></i> {{< staticref "uploads/biqBook/index.html" >}}dinâmica da Vida, da Terra e do Cosmos{{< /staticref >}} 
+
+<!---Tecnologia --->
+<i class="fa-solid fa-microscope"></i> {{< staticref "uploads/SismaBook/index.html" >}}conhecimento científico e tecnológico {{< /staticref >}}
+
 </font>
+
+
 
