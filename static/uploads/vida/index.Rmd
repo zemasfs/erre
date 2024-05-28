@@ -113,5 +113,23 @@ color cpk # coloração padrão de modelos atômicos
 1.[PubChem](https://pubchem.ncbi.nlm.nih.gov/)  - site da Biblioteca Nacional de Medicina dos E.U.A., com um vasto campo de busca pra pequenas moléculas.
 1. [Virtual Museum of Minerals and Molecules](https://virtual-museum.soils.wisc.edu/) - como traduzido, um banco de dados de minerais e moléculas.
 
+## *Ensino Reprodutível* e um *script* para observar uma molécula pelo *Jmol*
 
+|       A essência do *ER* é permitir que qualquer pessoa execute, altere, ou crie um trecho de código para determinado alvo no ensino. Dessa forma, é possível imaginar que uma combinação de comandos (códigos) do *Jmol* igualmente produza uma imagem de molécula em 3D em que se deseja, por exemplo, focar num aspecto temático específico. Para ilustrar esse potencial, execute e, se desejar, também modifique discretamente os valores que estão no trecho de código abaixo, diretamente na janela do *Console* do *Jmol* (aquela de aba amarelinha). Não se preocupe com a quantidade de comandos; estão aí apenas para ilustrar seu potencial de aplicação. Mas, caso desejar saber um pouco mais sobre os comandos do *Jmol*, faça uma visitinha à [página de Comandos](https://bioquanti.netlify.app/uploads/jmolbook/jmolquarto/comandos) do site [Bioquanti](https://bioquanti.netlify.app/).
+
+```{r, eval = FALSE}
+load $cholesterol # carrega um modelo de XXX
+background white # altera a cor do plano de fundo
+spin 80 # gira a molécula
+delay 3 # ...por 3 segundos
+spin off # interrompe a rotação
+cpk # renderiza como modelo de preenchimento
+color cpk # coloriza no padrão de modelos moleculares
+isosurface molecular # renderiza a superfície
+spin 30 # gira mais um poquinho
+delay 3 # ...também por 3 segundos
+spin off # interrompe novamente a rotação
+zoomto 0.5 *3  # amplia 300% na tela durante 1 segundo
+zoom to 0.5 * 10 # desaparece sem deixar vestígio !!!
+```
 
