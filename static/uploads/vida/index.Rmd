@@ -8,9 +8,6 @@ tags: ["R Markdown", "plot", "regression"]
 fontesize: 12pt
 ---
 
-
-
-
 <!-- <!-- Google tag (gtag.js) ## se não funcionar o default, tem que colocar essa tag em cada página do sítio--> 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S1L73VGCG5"></script>
 <script>
@@ -35,13 +32,6 @@ fontesize: 12pt
 
 
 |       Você pode baixar o programa no *website* acima, ou utilizá-lo diretamente num navegador de internete, como abaixo. Experimente rotacionar a molécula de água com o mouse....
-
-```{=html}
-<script type="text/javascript"
-src="https://chemapps.stolaf.edu/jmol/jmol.php?model=water&inline&width=300">
-</script>
-```
-
 
 
 |       Agora um passo adiante, pra você observar suas próprias moléculas em qualquer navegador. Abra uma janela em seu navegador (Edge, Firefox, Chrome, etc) e digite o seguinte caminho: vá ao link abaixo:
@@ -116,7 +106,7 @@ color cpk # coloração padrão de modelos atômicos
 1. [ChemTube3D](https://www.chemtube3d.com/) - banco de moléculas orgânicas e animações interativas.
 1. [Proteopedia](https://proteopedia.org/wiki/index.php/Main_Page) - site nos moldes do *Wikipedia*, embora para proteínas.
 1.[PubChem](https://pubchem.ncbi.nlm.nih.gov/)  - site da Biblioteca Nacional de Medicina dos E.U.A., com um vasto campo de busca pra pequenas moléculas.
-1. [Virtual Museum of Minerals and Molecules](https://virtual-museum.soils.wisc.edu/) - como traduzido, um banco de dados de minerias e moléculas.
+1. [Virtual Museum of Minerals and Molecules](https://virtual-museum.soils.wisc.edu/) - como traduzido, um banco de dados de minerais e moléculas.
 
 
 

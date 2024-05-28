@@ -8,7 +8,7 @@ tags: ["R Markdown", "plot", "regression"]
 fontesize: 12pt
 ---
 
-<body style="background-color:   #a9d7c1;"> 
+
 
 
 <!-- <!-- Google tag (gtag.js) ## se não funcionar o default, tem que colocar essa tag em cada página do sítio--> 
@@ -24,6 +24,8 @@ fontesize: 12pt
 <!-- <font size="4"> -->
 
 <!-- ![](jmol.png){width=20%} -->
+
+<body style="background-color:   #a9d7c1;"> 
 
 ## Introdução
 
