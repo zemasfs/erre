@@ -33,6 +33,11 @@ fontesize: 12pt
 
 |       Você pode baixar o programa no *website* acima, ou utilizá-lo diretamente num navegador de internete, como abaixo. Experimente rotacionar a molécula de água com o mouse....
 
+```{=html}
+<script type="text/javascript" 
+src="http://chemapps.stolaf.edu/jmol/jmol.php?model=water&inline&width=300">
+</script>
+```
 
 |       Agora um passo adiante, pra você observar suas próprias moléculas em qualquer navegador. Abra uma janela em seu navegador (Edge, Firefox, Chrome, etc) e digite o seguinte caminho: vá ao link abaixo:
 
