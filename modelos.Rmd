@@ -1,0 +1,23 @@
+---
+title: "modelos"
+output: html_document
+date: "2024-05-28"
+modelos <- c(
+  "https://pdb.rcsb.org/pdb-files/1a7h.pdb",
+  "https://pubchem.ncbi.nlm.nih.gov/rest/compound/CID59076/SDF"
+)
+
+html_jsmol <- lapply(modelos, function(modelo) {
+  paste0(
+    "<script type=\"text/javascript\" src=\"https://chemapps.stolaf.edu/jmol/jmol.php?model=",
+    modelo,
+    "&inline&width=300\">
+    </script>"
+  )
+})
+
+html_jsmol_final <- paste(html_jsmol, collapse = "\n")
+
+```{html}
+<%= html_jsmol_final %>
+```{html}

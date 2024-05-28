@@ -78,14 +78,14 @@ color cpk # coloração padrão de modelos atômicos
 
 |       Agora clique no arquivo baixado e arraste-o para o site do *Jmol online* em que está a molécula de água. 
 
-|       E Voilá !!!!! A molécula de aspirina é carregada "viva" nas nuvens !!!! E pode ser trabalhada das diversas maneiras acima.
+|       E Voilá !!!!! A molécula de aspirina é carregada "viva" nas nuvens !!!! E pode ser trabalhada de diversas maneiras, como acima.
 
 |       Existe uma infinidade de moléculas que podem ser baixadas da internete pra se observar e estudar, tais como fármacos, biomoléculas, cristais, e mesmo organismos simples, como vírus inteiros. Seguem alguns exemplos se você quiser experimentar:
 
-1. [ômega-3], um poderoso antioxidante;
-2. [Insulina], cuja falta está relacionada ao *diabetes*;
-3. [Celulose], a principal fonte de carbono do planeta;
-4. [Vírus do XXXX], dispensa palavras.
+1. [Cafeína](cafeina.mol), um poderoso estimulante;
+2. [Insulina](insulina.png), a proteína cuja falta está relacionada ao *diabetes*;
+3. [Celulose](celulose.png), a principal fonte de carbono do planeta;
+4. [Um fago (vírus)](virus.png), dispensa palavras (mas tenha paciência, é grandão e carrega lentamente).
 
 |       Para mais moléculas, sites e truques do *Jmol*, consulte o link correlato, sobre o uso do programa e diversos exemplos no [site bioQuanti](https://bioquanti.netlify.app).
 

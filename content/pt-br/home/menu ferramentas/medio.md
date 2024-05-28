@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Material em desenvolvimento para o Ensino Médio...<i class="fa-solid fa-toolbox"></i>
+title: Material para o Ensino Médio...<i class="fa-solid fa-toolbox"></i>
 subtitle: 
 
 weight: 30  # section position on page
