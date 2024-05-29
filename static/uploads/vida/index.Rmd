@@ -51,7 +51,7 @@ https://chemapps.stolaf.edu/jmol/jmol.php?model=water&script=Console
 |       Ou...se quiser ir direto, basta clicar na logo abaixo, e que representa o *applet JSmol* que é utilizado para a visualização tridimensional (também chamada de *renderização*, um provável anglicismo !).
 
 
-![](jsmol.png){width="20%"}](https://chemapps.stolaf.edu/jmol/jmol.php?model=water&script=Console)
+![](jsmol.png){width="20%"}(https://chemapps.stolaf.edu/jmol/jmol.php?model=water&script=Console)
 
 |       Arraste a janela *amarela* pra direita, pra você visualizar a molécula, nesse caso, uma *molécula de água*
 |       Agora você pode "brincar" à vontade com a molécula. Primeiro, mexendo em seu *mouse* pra fazê-la girar. Pode usar também o botão de rolagem do meio do mouse, pra ampliar ou reduzir seu tamanho na tela. 
