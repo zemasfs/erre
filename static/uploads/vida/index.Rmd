@@ -33,11 +33,13 @@ fontesize: 12pt
 
 |       Você pode baixar o programa no *website* acima, ou utilizá-lo diretamente num navegador de internete, como abaixo. Experimente rotacionar a molécula de água com o mouse....
 
+
 ```{=html}
 <script type="text/javascript" 
 src="http://chemapps.stolaf.edu/jmol/jmol.php?model=water&inline&width=300">
 </script>
 ```
+
 
 |       Agora um passo adiante, pra você observar suas próprias moléculas em qualquer navegador. Abra uma janela em seu navegador (Edge, Firefox, Chrome, etc) e digite o seguinte caminho: vá ao link abaixo:
 
@@ -49,14 +51,14 @@ https://chemapps.stolaf.edu/jmol/jmol.php?model=water&script=Console
 |       Ou...se quiser ir direto, basta clicar na logo abaixo, e que representa o *applet JSmol* que é utilizado para a visualização tridimensional (também chamada de *renderização*, um provável anglicismo !).
 
 
-[![](jsmol.png){width="20%"}](https://chemapps.stolaf.edu/jmol/jmol.php?model=water&script=Console)
+![](jsmol.png){width="20%"}](https://chemapps.stolaf.edu/jmol/jmol.php?model=water&script=Console)
 
 |       Arraste a janela *amarela* pra direita, pra você visualizar a molécula, nesse caso, uma *molécula de água*
 |       Agora você pode "brincar" à vontade com a molécula. Primeiro, mexendo em seu *mouse* pra fazê-la girar. Pode usar também o botão de rolagem do meio do mouse, pra ampliar ou reduzir seu tamanho na tela. 
 
 |       E pode fazer um montão de outras coisas legais. Pra isso, há duas opções. A primeira envolve o "montão" de coisas por uso de clique de mouse, bastando você clicar com o botão esquerdo desse em qualquer lugar do campo da molécula, como aparece na figura abaixo. 
 
-![Tela de menus do Jmol](agua.png)
+![Tela de menus do Jmol](agua.png){#fig-agua}
 
 |       Mas dentro de uma lógica do **Ensino Reprodutível**, contudo, é bem mais chique se utilizar linhas de comando digitados como num bloco de notas. Nesse caso, o *bloco de anotações* é o da janelinha amarela, na parte de baixo. Para utilizá-lo experimente digitar e teclar *Enter* após o seguinte comando:
 
@@ -113,12 +115,18 @@ color cpk # coloração padrão de modelos atômicos
 1.[PubChem](https://pubchem.ncbi.nlm.nih.gov/)  - site da Biblioteca Nacional de Medicina dos E.U.A., com um vasto campo de busca pra pequenas moléculas.
 1. [Virtual Museum of Minerals and Molecules](https://virtual-museum.soils.wisc.edu/) - como traduzido, um banco de dados de minerais e moléculas.
 
-## *Ensino Reprodutível* e um *script* para observar uma molécula pelo *Jmol*
+## *Ensino Reprodutível* e um *script* para observar moléculas pelo *Jmol*
 
-|       A essência do *ER* é permitir que qualquer pessoa execute, altere, ou crie um trecho de código para determinado alvo no ensino. Dessa forma, é possível imaginar que uma combinação de comandos (códigos) do *Jmol* igualmente produza uma imagem de molécula em 3D em que se deseja, por exemplo, focar num aspecto temático específico. Para ilustrar esse potencial, execute e, se desejar, também modifique discretamente os valores que estão no trecho de código abaixo, diretamente na janela do *Console* do *Jmol* (aquela de aba amarelinha). Não se preocupe com a quantidade de comandos; estão aí apenas para ilustrar seu potencial de aplicação. Mas, caso desejar saber um pouco mais sobre os comandos do *Jmol*, faça uma visitinha à [página de Comandos](https://bioquanti.netlify.app/uploads/jmolbook/jmolquarto/comandos) do site [Bioquanti](https://bioquanti.netlify.app/).
+|       **A essência do Ensino Reproduzível é permitir que qualquer pessoa execute, altere, ou crie um trecho de código redigido em um bloco de anotações comentado (um *script*) para determinado alvo no ensino, compilando-o num programa gratuito.** 
+
+|       Dessa forma, é possível imaginar que uma combinação de comandos (códigos) do *Jmol* igualmente produza uma imagem de molécula em 3D em que se deseja, por exemplo, focar em deteminado tema de sua estrutura. Para ilustrar esse potencial execute o trecho de código a seguir diretamente na janela do *Console* do *Jmol* (aquela de aba amarelinha). 
+
+|       Não se preocupe com a quantidade de comandos; estão aí apenas para ilustrar seu potencial de aplicação. Mas, caso deseje conhecer um pouco mais sobre os comandos do *Jmol*, faça uma visitinha à [página de Comandos](https://bioquanti.netlify.app/uploads/jmolbook/jmolquarto/comandos) do site [Bioquanti](https://bioquanti.netlify.app/).
 
 ```{r, eval = FALSE}
-load $cholesterol # carrega um modelo de XXX
+background black # cor preta do plano de fundo
+load $cholesterol # carrega a molécula de colesterol
+delay 1 # aguarda 1 segundo
 background white # altera a cor do plano de fundo
 spin 80 # gira a molécula
 delay 3 # ...por 3 segundos
@@ -127,9 +135,13 @@ cpk # renderiza como modelo de preenchimento
 color cpk # coloriza no padrão de modelos moleculares
 isosurface molecular # renderiza a superfície
 spin 30 # gira mais um poquinho
-delay 3 # ...também por 3 segundos
+delay 6 # ...também por 3 segundos
 spin off # interrompe novamente a rotação
-zoomto 0.5 *3  # amplia 300% na tela durante 1 segundo
-zoom to 0.5 * 10 # desaparece sem deixar vestígio !!!
+zoomTo 0.5 *3  # amplia 300% na tela durante 1 segundo
+isosurface off # retira a superfície molecular
+wireframe only # retorna à representação de varetas
+wireframe 50 # espessura das varetas
+zoomTo 5 *0.01 # ... e vai sumindo aos poucos
 ```
 
+|       Se gostou, tente repetir o trecho acima, alterando num primeiro momento alguns dos valores do trecho. Num segundo momento, carregue outra molécula que esteja nas nuvens substituindo a 1a. linha do código (`load $outra.molécula`).
